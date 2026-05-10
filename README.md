@@ -6,6 +6,8 @@ the newsletter is done with [maily.to](https://maily.to/)
 
 Quota memo: 100 recipents per email (wait 60 min. for the next 100). [doc UGA](https://services-numeriques-personnels.univ-grenoble-alpes.fr/menu-principal/applications/communiquer-et-collaborer/zimbra-messagerie-/quotas-d-emission-de-mails-1543618.kjsp?RH=1498478570611)
 
+tool memo : keila.io, a newsletter tool, looks like a good alternative
+
 ## Add a newsletter
 
 To add a newsletter, just drop the **html file** in this repo.  
